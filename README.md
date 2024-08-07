@@ -9,7 +9,6 @@ This is a web application for managing a grocery store, allowing users to browse
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
