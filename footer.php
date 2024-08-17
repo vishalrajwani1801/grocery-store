@@ -180,6 +180,10 @@ foreach ($result as $row) {
                	$('#paypal_form').show();
 				$('#stripe_form').hide();
 				$('#bank_form').hide();
+            } else if ( advFieldsStatus == 'upiCard' ) {
+               	$('#razorpay').show();
+				$('#stripe_form').hide();
+				$('#bank_form').hide();
             } else if ( advFieldsStatus == 'Stripe' ) {
                	$('#paypal_form').hide();
 				$('#stripe_form').show();
