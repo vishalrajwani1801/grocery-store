@@ -11,6 +11,7 @@ This is a web application for managing a grocery store, allowing users to browse
 - [Contributing](#contributing)
 
 ## Features
+Selling Ecommerce IN INR 
 
 ### Customer Features
 - Browse and search for grocery items
